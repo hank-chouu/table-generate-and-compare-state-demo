@@ -21,4 +21,6 @@ pip install -r requirements.txt
 
 ![choose venv](https://i.imgur.com/e06R8w0.png)
 
+5. compare_state.ipynb 的執行方式，重複步驟 3~4 即可
+
 
